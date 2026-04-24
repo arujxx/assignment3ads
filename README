@@ -45,7 +45,7 @@ Binary Search is very fast because it reduces the search space by half each time
 It only works with sorted arrays.
 
 Screenshots
-Program Output: ![Program Output](docs/screenshots/output.png)
+![Program Output](docs/screenshots/output.png)
 
 Reflection
 In this project I understood how algorithms work not only in theory but also in practice.
