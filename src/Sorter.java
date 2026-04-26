@@ -3,7 +3,7 @@ import java.util.Random;
 public class Sorter {
 
     public void basicSort(int[] arr) {
-        // Bubble Sort
+
         for (int i = 0; i < arr.length - 1; i++) {
             for (int j = 0; j < arr.length - i - 1; j++) {
 
